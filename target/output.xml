@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="31.158" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Login functionality for orange hrm page" name="Login with Invalid credentials - #1.1" time="14.305">
+<system-out><![CDATA[
+Given User launches the orange hrm page.....................................passed
+When User enters a username "Admin" for the login page......................passed
+And User enters a password "admin123" for the login page....................passed
+And User clicks a login button for login page...............................passed
+Then User should see the dashboard page for orange hrm......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality for orange hrm page" name="Login with Invalid credentials - #1.2" time="8.504">
+<system-out><![CDATA[
+Given User launches the orange hrm page.....................................passed
+When User enters a username "Admin" for the login page......................passed
+And User enters a password "admin123" for the login page....................passed
+And User clicks a login button for login page...............................passed
+Then User should see the dashboard page for orange hrm......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login functionality for orange hrm page" name="Login with Invalid credentials - #1.3" time="8.114">
+<system-out><![CDATA[
+Given User launches the orange hrm page.....................................passed
+When User enters a username "Admin" for the login page......................passed
+And User enters a password "admin123" for the login page....................passed
+And User clicks a login button for login page...............................passed
+Then User should see the dashboard page for orange hrm......................passed
+]]></system-out>
+</testcase>
+</testsuite>
